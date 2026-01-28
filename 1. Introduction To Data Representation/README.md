@@ -114,4 +114,62 @@ Data can be classified into three broad categories based on its level of organiz
 
 ## Visual Representation (Figure 1-1 Concept)
 <img width="875" height="332" alt="image" src="https://github.com/user-attachments/assets/98cd2a1d-32de-444c-a605-74fa8c382ba1" />
+## Importance of the Data Spectrum in Real-World Scenarios
 
+In real-world business applications, data rarely exists in a single pure form.  
+Most systems handle **multiple data types simultaneously**, making the data spectrum concept essential to understand.
+
+---
+
+## Mixed Data Types in Business Applications
+
+A single business process often involves a combination of structured, semi-structured, and unstructured data.
+
+### Example: Customer Relationship Management (CRM) System
+
+A CRM system typically manages different kinds of data within the same workflow:
+
+#### Structured Data
+- Customer names
+- Contact numbers
+- Email addresses
+- Account IDs
+
+Stored in:
+- Relational databases
+- Tables with predefined schemas
+
+---
+
+#### Semi-Structured Data
+- Communication preferences
+- Notification settings
+- Customer interaction metadata
+
+Stored as:
+- JSON
+- XML
+- Key-value pairs
+
+---
+
+#### Unstructured Data
+- Email attachments
+- Images
+- Documents
+- PDFs
+
+Stored in:
+- File systems
+- Object storage
+
+---
+
+## Key Takeaway
+
+- Business systems **do not rely on a single data type**
+- Understanding the **data spectrum** enables:
+  - Better data modeling
+  - Proper storage decisions
+  - Efficient processing and analytics
+- Modern cloud platforms like **Azure** are designed to handle this diversity seamlessly
