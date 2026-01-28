@@ -3,7 +3,7 @@
 
 Data appears in countless forms around us—customer records in retail systems, photos stored on smartphones, financial transactions at banks, and sensor readings from industrial equipment. These forms of data are not all the same, and recognizing how each type is organized and stored is essential for making smart decisions about managing data in the cloud.
 
-This awareness becomes especially important when working with platforms like **Microsoft Azure**, where the structure and format of data directly influence performance, cost efficiency, and overall system capabilities.
+This awareness becomes especially important when working with cloud platforms like **(AWS/Azure/GCP)**, where the structure and format of data directly influence performance, cost efficiency, and overall system capabilities.
 
 ---
 
